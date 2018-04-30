@@ -18,6 +18,7 @@ public class DemoApplication {
         System.out.println("woca");
         System.out.println("我已经改了一个东西");
         System.out.println("我已经改了第二个东西");
+        System.out.println("我已经改了第三个东西");
         return "123123123";
     }
 
