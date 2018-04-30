@@ -16,6 +16,7 @@ public class DemoApplication {
     @ResponseBody
     public String hehe(){
         System.out.println("woca");
+        System.out.println("我已经改了一个东西");
         return "123123123";
     }
 
