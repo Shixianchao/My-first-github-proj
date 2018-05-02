@@ -19,6 +19,10 @@ public class DemoApplication {
         System.out.println("我已经改了一个东西");
         System.out.println("我已经改了第二个东西");
         System.out.println("我已经改了第三个东西");
+        System.out.println("我在分支三上更改的东西，并且更改完成之后提交到分支1上面的");
+        System.out.println("第一次commit");
+        System.out.println("第二次commit");
+        System.out.println("分之一第一次commit");
         return "123123123";
     }
 
