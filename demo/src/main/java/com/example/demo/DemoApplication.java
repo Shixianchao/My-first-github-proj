@@ -25,6 +25,7 @@ public class DemoApplication {
         System.out.println("第二次commit");
         System.out.println("分之一第二次commit");
         System.out.println("分支4上面改的东西");
+        System.out.println("分之一上面改东西第一次提交");
         return "123123123";
     }
 
