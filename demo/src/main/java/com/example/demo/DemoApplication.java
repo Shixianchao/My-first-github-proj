@@ -22,7 +22,8 @@ public class DemoApplication {
         System.out.println("我在分支三上更改的东西，并且更改完成之后提交到分支1上面的");
         System.out.println("第一次commit");
         System.out.println("第二次commit");
-        System.out.println("分之一第一次commit");
+        System.out.println("分之一第二次commit");
+        System.out.println("分支4上面改的东西");
         return "123123123";
     }
 
