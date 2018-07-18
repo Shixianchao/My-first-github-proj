@@ -23,6 +23,7 @@ public class DemoApplication {
         System.out.println("第一次commit");
         System.out.println("第二次commit");
         System.out.println("分之一第二次commit");
+        System.out.println("你妹");
         return "123123123";
     }
 
