@@ -16,6 +16,7 @@ public class DemoApplication {
     @ResponseBody
     public String hehe(){
         System.out.println("woca");
+        System.out.println("第五个分支远程测试");
         return "123123123";
     }
 
